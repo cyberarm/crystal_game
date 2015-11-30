@@ -1,0 +1,11 @@
+name: crystal_gosu
+version: 0.1.0
+
+authors:
+  - Cyberarm <matthewlikesrobots@gmail.com>
+
+license: MIT
+
+dependencies:
+  crsfml:
+    github: BlaXpirit/crsfml
